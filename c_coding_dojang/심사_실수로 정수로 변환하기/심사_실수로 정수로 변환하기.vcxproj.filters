@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 16\judge_type_demotion.c">
+    <ClCompile Include="jud_type_demotion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

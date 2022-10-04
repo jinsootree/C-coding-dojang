@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 15\practice_multiples_of_three.c">
+    <ClCompile Include="prac_multiple_of_three.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

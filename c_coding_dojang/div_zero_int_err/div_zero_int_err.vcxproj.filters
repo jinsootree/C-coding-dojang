@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 14\div_zero_integer_error.c">
+    <ClCompile Include="div_zero_int_err.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

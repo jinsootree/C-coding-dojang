@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 31\star_square.c">
+    <ClCompile Include="star_sqaure.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

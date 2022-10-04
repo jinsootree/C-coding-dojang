@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 38\pointer_like_array.c">
+    <ClCompile Include="pointer_like_array.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 16\type_promotion_int_to_long_long.c">
+    <ClCompile Include="type_promotion_int_to_long_long.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

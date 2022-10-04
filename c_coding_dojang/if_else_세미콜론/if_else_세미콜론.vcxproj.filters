@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 18\if_else_semicolon.c">
+    <ClCompile Include="if_else_semicolon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

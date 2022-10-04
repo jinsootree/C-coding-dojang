@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 17\practice_if_char.c">
+    <ClCompile Include="prac_if_char.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

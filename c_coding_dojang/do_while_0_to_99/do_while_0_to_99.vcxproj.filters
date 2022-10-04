@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 29\do_while_0_to_99.c">
+    <ClCompile Include="do_while_0_to_99.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

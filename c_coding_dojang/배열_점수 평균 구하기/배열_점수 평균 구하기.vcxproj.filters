@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 36\practice_average_of_scores.c">
+    <ClCompile Include="prac_average_of_score.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 34\invalid_pointer.c">
+    <ClCompile Include="invaild_pointer.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

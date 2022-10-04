@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 33\print_1_to_100.c">
+    <ClCompile Include="fizzbuzz_print_1_to100.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

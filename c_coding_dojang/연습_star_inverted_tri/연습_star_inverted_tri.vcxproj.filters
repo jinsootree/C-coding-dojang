@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 31\practice_star_inverted_triangle.c">
+    <ClCompile Include="prac_star_inverted.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

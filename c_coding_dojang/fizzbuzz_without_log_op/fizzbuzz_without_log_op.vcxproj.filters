@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 33\fizzbuzz_without_logical_operator.c">
+    <ClCompile Include="fizzbuzz_without_logical_op.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 36\array_invalid_index.c">
+    <ClCompile Include="array_invaild_index.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

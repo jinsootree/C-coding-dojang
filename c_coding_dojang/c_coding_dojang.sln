@@ -1331,6 +1331,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "연습_fizzbuzz_2_7", "연�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fizzbuzz_print_1_to_100", "fizzbuzz_print_1_to_100\fizzbuzz_print_1_to_100.vcxproj", "{6B228798-0698-4E4D-B912-113AE3BA96D2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "address", "address\address.vcxproj", "{90129797-08AD-41AD-8046-A4B56D6B8D6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -3635,6 +3637,14 @@ Global
 		{6B228798-0698-4E4D-B912-113AE3BA96D2}.Release|x64.Build.0 = Release|x64
 		{6B228798-0698-4E4D-B912-113AE3BA96D2}.Release|x86.ActiveCfg = Release|Win32
 		{6B228798-0698-4E4D-B912-113AE3BA96D2}.Release|x86.Build.0 = Release|Win32
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Debug|x64.ActiveCfg = Debug|x64
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Debug|x64.Build.0 = Debug|x64
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Debug|x86.Build.0 = Debug|Win32
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Release|x64.ActiveCfg = Release|x64
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Release|x64.Build.0 = Release|x64
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Release|x86.ActiveCfg = Release|Win32
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4222,6 +4232,7 @@ Global
 		{C64BE149-D8DE-4E01-9F63-0950888FFE9E} = {17928E39-1484-4DC4-ADFF-B3D221A52099}
 		{2EDB2FB6-71AC-4641-8E33-ADD28DB7877B} = {DECF0602-9E36-488F-B9E0-2249841353B1}
 		{6B228798-0698-4E4D-B912-113AE3BA96D2} = {3BD6DF14-E996-4D93-8EBE-5B894240F3CF}
+		{90129797-08AD-41AD-8046-A4B56D6B8D6C} = {0BDCEB08-40AD-4DBB-9942-BB76EBA5910A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A8CAF6A7-E0F2-46BD-9F87-F52E83234121}

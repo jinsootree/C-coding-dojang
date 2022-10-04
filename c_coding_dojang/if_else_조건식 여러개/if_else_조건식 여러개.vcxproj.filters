@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 18\if_else_multiple_cond_exp.c">
+    <ClCompile Include="if_else_multiple_cond_exp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
