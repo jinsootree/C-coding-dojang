@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 22\true_false_string.c">
+    <ClCompile Include="true_false_string.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

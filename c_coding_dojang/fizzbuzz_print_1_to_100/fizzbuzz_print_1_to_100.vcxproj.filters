@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="fizzbuzz_print_1_to100.cpp">
+    <ClCompile Include="fizzbuzz_print_1_to_100.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

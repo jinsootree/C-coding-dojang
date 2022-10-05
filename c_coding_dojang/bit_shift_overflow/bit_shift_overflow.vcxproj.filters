@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 24\bitwise_shift_overflow.c">
+    <ClCompile Include="bit_shift_overflow.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 21\ternary_conditional_logical_operator.c">
+    <ClCompile Include="ternary_conditional_logical_operator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

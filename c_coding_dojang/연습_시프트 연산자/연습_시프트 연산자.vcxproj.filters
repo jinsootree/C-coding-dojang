@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 23\practice_bitwise_shift_operator.c">
+    <ClCompile Include="prac_bitwise_shift_operator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 20\comparison_operator_if_integer.c">
+    <ClCompile Include="comparison_operator_if_int.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

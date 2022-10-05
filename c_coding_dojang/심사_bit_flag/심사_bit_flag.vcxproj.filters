@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 24\judge_bitwise_flag.c">
+    <ClCompile Include="jud_bit_flag.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\006759-master\006759-master\Unit 22\if_boolean.c">
+    <ClCompile Include="if_boolean.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
