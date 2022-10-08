@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*_______________*/
+#include <stdint.h> /*_______________*/
 
 int main()
 {
@@ -12,3 +12,8 @@ int main()
 
     return 0;
 }
+/*int8_t, uint16_t, uint32_t, int64_t와 
+같이 크기가 표시된 정수 자료형은 
+stdint.h 헤더 파일에 정의되어 있으므로
+#include <stdint.h>와 같이 헤더 파일을 포함해주면 됩니다.
+*/
