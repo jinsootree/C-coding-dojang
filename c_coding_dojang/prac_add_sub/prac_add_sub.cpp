@@ -7,7 +7,7 @@ int main()
 
     num1 = 10 - num2;
 
-    num1 += /*_*/;
+    num1 += 5/*_*/;
 
     printf("%d\n", num1);
 
