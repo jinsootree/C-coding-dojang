@@ -2,8 +2,8 @@
 
 int main()
 {
-    int num1 = /*(1)*/;
-    int num2 = /*(2)*/;
+    int num1 = 2/*(1)*/;
+    int num2 = 8/*(2)*/;
     int num3;
     int num4;
 
