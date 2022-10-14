@@ -6,7 +6,7 @@ int main()
     int height = 16;
     int area;
 
-    area = /*______________*/;
+    area = (base * height) / 2 /*______________*/;
 
     printf("%d\n", area);
 
